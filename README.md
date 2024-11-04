@@ -1,3 +1,7 @@
+# Presentation
+
+[Link to the Slides](https://www.canva.com/design/DAGUpUx9tJ4/2gm42BFccb0XsUF0LnFHCg/view?utm_content=DAGUpUx9tJ4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # Notebooks
 
 You can use [Google Colab](https://colab.research.google.com/) to open and run these notebooks. Make sure to go to Runtime and pick GPU a instance.
