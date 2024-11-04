@@ -1,4 +1,8 @@
-# Manim Script
+# Notebooks
+
+You can use [Google Colab](https://colab.research.google.com/) to open and run these notebooks. Make sure to go to Runtime and pick GPU a instance.
+
+# Video Script
 
 This project contains an animation script created with [Manim](https://www.manim.community/), a community-maintained mathematical animation engine.
 
